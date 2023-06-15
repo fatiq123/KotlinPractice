@@ -6,4 +6,4 @@
 # Object Oriented Programming in Dart
 # 24 april 2023
 # 24-4-2023
-# Arthor: Fatiq Hussnain
+# Author: Fatiq Hussnain
